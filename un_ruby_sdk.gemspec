@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "un_ruby_sdk"
   spec.version       = UnRubySdk::VERSION
   spec.authors       = ["Jed_Huo"]
-  spec.email         = ["jed@bestapp.us"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["huoshiqiu@gmail.com"]
+  spec.summary       = %q{umeng notication ruby sdk}
+  spec.description   = %q{umeng notication ruby sd}
   spec.homepage      = ""
   spec.license       = "MIT"
 
