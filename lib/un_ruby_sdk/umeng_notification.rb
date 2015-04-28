@@ -30,7 +30,7 @@ module UnRubySdk
     end
     # 测试master_secret
     def master_secret
-      ''
+      'example_secret'
     end
   end
 end
